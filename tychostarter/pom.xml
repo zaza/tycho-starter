@@ -10,5 +10,5 @@
   </parent>
   <artifactId>tychostarter</artifactId>
   <packaging>eclipse-plugin</packaging>
-  <name>tychostarter</name>
+  <name>Tycho Starter</name>
 </project>
