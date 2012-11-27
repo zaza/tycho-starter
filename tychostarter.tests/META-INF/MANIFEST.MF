@@ -5,10 +5,11 @@ Bundle-SymbolicName: tychostarter.tests;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: tychostarter.Activator
 Require-Bundle: org.eclipse.ui,
+ org.eclipse.ui.navigator.resources,
  org.eclipse.core.runtime,
  org.eclipse.swtbot.eclipse.finder;bundle-version="2.0.5",
  org.junit,
  org.hamcrest;bundle-version="1.1.0",
- tychostarter;bundle-version="1.0.0"
+ tychostarter
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
